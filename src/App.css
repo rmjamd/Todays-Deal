@@ -27,7 +27,35 @@
 .App-link {
   color: #61dafb;
 }
+#headingcontainer {
+  height: 65px;
+  width: 90%;
+  margin: auto;
+  border: 5px solid green;
+  
+}
+#listitem
+{
+  width: 90%;
+  padding-top: 20px;
+  margin: auto;
 
+}
+#submit {
+  height: 80%;
+  width: 30%;
+  margin:auto;
+
+}
+#heading{
+  text-align: center;
+  height: 80%;
+  margin-left:40px;
+  margin-right:40px;
+  padding-top: 5px;
+  background-color: green;
+  color: white;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
